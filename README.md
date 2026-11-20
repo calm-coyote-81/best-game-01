@@ -16,3 +16,11 @@ node serve.ts
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref={referral_code}&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
+
+## Donate
+
+If you enjoy this project, you can support it with a crypto donation:
+
+[Donate SOL / USDT (Solana)](solana:DQM8neQdx1rnCTsjQDJEj2gNrXjYoewkcVdvptoqm3c3?label=Donate)
+
+Or send to this address: `DQM8neQdx1rnCTsjQDJEj2gNrXjYoewkcVdvptoqm3c3`
